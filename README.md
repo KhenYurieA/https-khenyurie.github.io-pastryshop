@@ -45,7 +45,7 @@ Welcome to my digital space! I am a passionate developer dedicated to building c
 ---
 
  Let's Connect!
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **Portfolio Website:**(https://khenyurieA)
+- **LinkedIn:** [://linkedin.com](https://://khenyurieA)
+- **Portfolio Website:**(https://github.com/KhenYurieA)
 - **Email:** mailto: akhenyurie@gmail.com
   
